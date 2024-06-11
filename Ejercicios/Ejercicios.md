@@ -8,7 +8,7 @@
 1. Elimina las siglas de la institución UPC en la etiqueta 908 i de la 856​.
 2. Supongamos que el registro es un recurso electrónico, añade el campo de control 007​.
 3. Comprueba si el registro es RDA a partir de la cabecera, posición (18), y si es así, añade el $$e en la etiqueta 040 y las etiquetas correspondientes de 33x.
-4. Se ha hecho un registro de autoridad de una materia "Economia financiera", y queremos actualizar el literal de aquellas etiquetas 650 #4 "Economia y finanzas", cambiando la segunda posición a 7 y añadiendo $$2 lemac.
+4. Se ha hecho un registro de autoridad de una materia "Economia financiera", y queremos actualizar el literal de aquellas etiquetas 650 #4 "Economia y finanzas", también modificando el primer indicador por "blanco" y el segundo por "7", y añadiendo $$2 lemac.
 
 ## Nivel avanzado​
 1. Elimina los puntos finales de las etiquetas 650 del registro​.
