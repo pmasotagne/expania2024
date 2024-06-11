@@ -7,8 +7,6 @@
 >
 > - _expania1 / formacion1_
 > - _expania2 / formacion2_
-> - _expania3 / formacion3_
-> - _expania4 / formacion4_
 > - _..._
 > - _expania35 / formacion35_
 
