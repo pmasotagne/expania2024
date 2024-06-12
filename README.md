@@ -1,4 +1,5 @@
-## Taller Expania 2024 - Reglas de normalización: conceptos básicos y casos de uso
+# Taller Expania 2024
+## Reglas de normalización: conceptos básicos y casos de uso
 > [!IMPORTANT]
 > ### Acceso al Sandbox y Usuarios
 > Para realizar el taller deberéis acceder al siguiente entorno de pruebas, tenéis un conjunto de usuarios disponibles:
