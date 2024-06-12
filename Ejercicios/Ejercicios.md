@@ -3,6 +3,7 @@
 2. Elimina la etiqueta 040 y añade de nuevo la etiqueta con las siglas de tu institución.
 3. Cambia la posición 023 de la 008 a "o" teniendo en cuenta si en el registro existe 007​. _(Necesario realizar el ejercicio intermedio 2 o añadir manualmente)_
 4. Corrige el número de caracteres ignorados en la intercalación de las etiquetas 130 (1r indicador) y 245 (2o indicador) según el artículo del $$a​.
+5. Copiar etiqueta 001 en una 035 y añadir el prefijo de tu institución entre paréntesis.​
 
 ## Nivel intermedio
 1. Elimina las siglas de la institución UPC en la etiqueta 908 i de la 856​.
